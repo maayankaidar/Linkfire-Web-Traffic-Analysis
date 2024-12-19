@@ -9,18 +9,41 @@ This project aims to analyze website traffic, focusing on events distribution an
    
 By analyzing these events, we gain insights into user behavior across the interaction funnel, from initial curiosity to engagement and conversion.
 
-# Data Sources
+## Data Sources
 The dataset used for this project was sourced from Kaggle:
 - [Website Traffic Dataset](https://www.kaggle.com/datasets/harshalpanchal/website-traffic)
 
-# Tools
+## Tools
+- DBeaver: Database management
+- SQLite: Data manipulation
+- Tableau: Data visualization
+- Visual Studio Code (VSCode): Project organization
 
+## Data Cleaning/Prepration
+In the initial data preparation phase, I performed the following tasks:
+- Handling missing values.
+- Removing duplicates.
+- Checking for typos.
 
-# Data Cleaning/Prepration
+## Exploratory Data Analysis
+EDA involved exploring the data to answer key questions, such as:
+- Total Events
+   - How many total pageview/click/preview events were recorded for all links during the full period?
+   - What was the average number of pageviews/click/preview events per day?
 
+- Pageview Sources
+   - Which countries generated the recorded pageviews?
 
-# Exploratory Data Analysis
+- Click-Through Rate (CTR)
+   - What was the overall CTR?
 
+- CTR Distribution
+   -How is the CTR distributed across different links?
 
-# Visualizations
+- Correlation Between Clicks and Previews
+   - Is there a correlation between clicks and previews?
+   - Is the correlation statistically significant?
+   - What is the effect size of the correlation?
+
+## Visualizations
 
