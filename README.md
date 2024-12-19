@@ -45,11 +45,18 @@ EDA involved exploring the data to answer key questions, such as:
    - Is the correlation statistically significant?
    - What is the effect size of the correlation?
 
+## Results/Findings
+- f
+- f
+- f
+
 ## Visualizations
 ![Total and Average Events](https://github.com/user-attachments/assets/03a73671-2b3f-43bf-822b-9c43b4a51ea4)
 ![Trending Countries](https://github.com/user-attachments/assets/90090e21-411a-4169-a2d5-0e847d25590c)
 ![CTR Distribution](https://github.com/user-attachments/assets/3a9db8be-3b7a-4aac-9e72-c864706f5790)
 ![Preview-Click Correlation](https://github.com/user-attachments/assets/b84e0542-9fed-4a6c-acbd-df8207f34825)
+
+
 
 
 
