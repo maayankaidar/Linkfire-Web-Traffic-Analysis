@@ -38,7 +38,7 @@ EDA involved exploring the data to answer key questions, such as:
    - What was the overall CTR?
 
 - CTR Distribution
-   -How is the CTR distributed across different links?
+  - How is the CTR distributed across different links?
 
 - Correlation Between Clicks and Previews
    - Is there a correlation between clicks and previews?
