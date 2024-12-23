@@ -48,11 +48,11 @@ EDA involved exploring the data to answer key questions, such as:
 ## Results/Findings
 - Most of the traffic peaked slightly before the weekend, possibly because people tend to listen to music more during work, study, or workout sessions. Traffic dropped below average later in the week, potentially due to users spending more time with family over the weekend.
 - Clicks and previews were low compared to pageviews, suggesting there is potential to increase clicks by raising the preview rate, as shown later in the analysis.
-- The slight uptick in previews during the middle of the week may indicate users' curiosity about new music. <br><br><br><br>
-
+- The slight uptick in previews during the middle of the week may indicate users' curiosity about new music. 
+---
 - The USA, India, France, Saudi Arabia, and the UK are the most popular regions driving traffic.
-- Exploring localized content or marketing strategies tailored to these regions could help increase engagement and optimize traffic. <br><br><br><br>
-
+- Exploring localized content or marketing strategies tailored to these regions could help increase engagement and optimize traffic. 
+---
 - The CTR distribution shows that most user links fall within the 30-50% range, which serves our customers well, but there is potential to push this higher.
 - The average click-through rate (CTR) is 46.76%, which is acceptable but could be significantly improved. To achieve this, we should explore methodologies to enhance how previews are presented to users. By optimizing the preview experience and making it more engaging, we can capture users' attention more effectively, leading to higher clicks and, ultimately, increased pageviews.
 - The correlation between clicks and previews is exceptionally strong, with a Pearson correlation coefficient of 0.96. This indicates a near-perfect relationship, meaning that as previews increase, clicks also rise significantly. This highlights the importance of optimizing and increasing preview events to drive higher engagement and clicks.
