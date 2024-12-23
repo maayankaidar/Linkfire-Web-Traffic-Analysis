@@ -1,8 +1,8 @@
 # Linkfire Web Traffic Analysis
-Analysis of Linkfire web traffic data, focusing on CTR, user behavior, and traffic trends using Tableau and SQL.
+Analysis of Linkfire web traffic data over the course of one week, focusing on CTR, user behavior, and traffic trends using Tableau and SQL.
 
 ## Project Overview
-This project aims to analyze website traffic, focusing on events distribution and strategies to improve click-through rates (CTR). It examines three levels of user engagement:
+This project aims to analyze website traffic over the course of one week, focusing on events distribution and strategies to improve click-through rates (CTR). It examines three levels of user engagement:
 1. Pageview - Basic level of engagement, where a user views the page.
 2. Preview - Mid-level interaction, where a user engages with content on the page.
 3. Click - Actionable interaction, where a user follows a link to an external platform.
