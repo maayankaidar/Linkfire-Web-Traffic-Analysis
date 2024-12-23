@@ -65,6 +65,13 @@ EDA involved exploring the data to answer key questions, such as:
 ![Preview-Click Correlation](https://github.com/user-attachments/assets/b84e0542-9fed-4a6c-acbd-df8207f34825)
 
 
+## Recommendations
+- Launch targeted campaigns or promotions slightly before the weekend to capitalize on peak traffic periods.
+- Develop localized content and marketing strategies for the USA, India, France, Saudi Arabia, and the UK to enhance engagement.
+- Improve the preview experience through engaging methodologies to increase CTR and, in turn, boost clicks and pageviews.
+- Focus on optimizing and increasing preview events to leverage the strong correlation with clicks and drive higher engagement.
+
+
 
 
 
